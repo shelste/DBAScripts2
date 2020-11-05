@@ -1,4 +1,3 @@
-This is the second version
+This is the third version
 
-I have added a new paragraph that would be important in my daily work, 
-providing more iinformation and detail.
+This folder contains a number of diagnostic scripts to be run against our SQL Server Instance

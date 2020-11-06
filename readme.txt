@@ -1,3 +1,3 @@
-This is the third version
+This is the fourth version
 
-This folder contains a number of diagnostic scripts to be run against our SQL Server Instance
+This folder contains updataed scripts to maintain our SQL servers

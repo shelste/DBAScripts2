@@ -12,3 +12,4 @@ where
   se.SID = ss.SID and  
   ss.status='ACTIVE' and  
   ss.username is not null order by VALUE desc;
+Go
